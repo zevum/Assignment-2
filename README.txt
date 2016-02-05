@@ -1,0 +1,2 @@
+Goal of this assignment is to commit changes to a git repository, and to implement / update a remote repository. 
+In addition, the assignment requires students to document any / all changes throughout the coding process. 
